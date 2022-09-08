@@ -10,6 +10,10 @@
 img {
   vertical-align: middle;
 }
+.w1000 {
+  width: 1000px;
+  margin: 0 auto;
+}
 .w980 {
   width: 1045px;
   margin: 0 auto;
@@ -34,11 +38,14 @@ img {
   width: 100%;
 }
 .emag-sapo {
-  margin: 60px auto 30px;
-  font-family: 'UTM-HelveBold';
-  font-size: 21px;
-  line-height: 30px;
-  text-align: center;
+  margin: -90px auto 30px;
+  text-align: justify;
+}
+.emag-sapo p {
+  font-size: 24px!important;
+  color: #ed172f!important;
+  font-family: "RobotoSlab", sans-serif!important;
+  line-height: 36px!important;
 }
 .emag-sapo img {
   width: 100%;
@@ -79,6 +86,15 @@ img {
   line-height: 26px;
   margin-bottom: 30px;
   color: #222222;
+}
+.emag-content p.emag-ask {
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  padding: 0 60px;
 }
 .emag-content p em {
   font-style: italic;

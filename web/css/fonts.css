@@ -30,3 +30,13 @@
     src: url('../fonts/UTM-HelveBold.ttf') format('truetype');
     font-weight: 400;
 }
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Medium.ttf") format('truetype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: "RobotoSlab";
+    src: url("../fonts/RobotoSlab-Medium.ttf") format('truetype');
+    font-weight: 500;
+}
