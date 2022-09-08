@@ -110,6 +110,8 @@ img {
   margin-bottom: 0;
   font-family: "NotoSerif", serif;
   font-weight: 700;
+  padding-left: 15px;
+  border-left: solid 4px #ed1941;
 }
 .emag-credit img {
   width: 100%;
